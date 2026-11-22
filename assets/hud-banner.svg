@@ -52,26 +52,22 @@
       <animate attributeName="opacity" values="0.35;0.7;0.35" dur="2.4s" repeatCount="indefinite"/>
     </circle>
 
-    <!-- outer tick ring -->
     <g>
       <circle r="108" fill="none" stroke="#00e5ff" stroke-opacity="0.35" stroke-width="1"/>
       <circle r="100" fill="none" stroke="#00e5ff" stroke-width="6" stroke-dasharray="2 8" stroke-opacity="0.7"/>
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
     </g>
 
-    <!-- segmented ring (counter-rotating) -->
     <g>
       <circle r="84" fill="none" stroke="#00e5ff" stroke-width="3" stroke-dasharray="60 20 10 20" stroke-linecap="round"/>
       <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/>
     </g>
 
-    <!-- gold arc -->
     <g>
       <circle r="72" fill="none" stroke="#ffb300" stroke-width="2" stroke-dasharray="90 362" stroke-linecap="round"/>
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
     </g>
 
-    <!-- coil segments -->
     <g fill="none" stroke="#9ff3ff" stroke-width="7" stroke-opacity="0.85">
       <circle r="52" stroke-dasharray="22 5.2"/>
     </g>
@@ -90,19 +86,19 @@
 
     <text x="350" y="128" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="4" filter="url(#glow)">OKAN CAN CAMCI</text>
 
-    <text x="350" y="160" font-size="16" class="cy" letter-spacing="2">COMPUTER ENGINEERING STUDENT</text>
+    <text x="350" y="160" font-size="15" class="cy" letter-spacing="2">COMPUTER ENGINEER // EDGE AI · FULL-STACK</text>
 
     <g font-size="13">
       <text x="350" y="200" class="dim" opacity="0">
-        &gt; core systems ........ <tspan class="cy">ONLINE</tspan>
+        &gt; edge-ai vision ...... <tspan class="cy">ONLINE</tspan>
         <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.3s" fill="freeze"/>
       </text>
       <text x="350" y="220" class="dim" opacity="0">
-        &gt; compiler modules .... <tspan class="cy">LOADED</tspan>
+        &gt; aes-256 uplink ...... <tspan class="cy">SECURED</tspan>
         <animate attributeName="opacity" values="0;1" begin="1.0s" dur="0.3s" fill="freeze"/>
       </text>
       <text x="350" y="240" class="dim" opacity="0">
-        &gt; power output ........ <tspan class="gold">100%</tspan>
+        &gt; llm agents .......... <tspan class="gold">DEPLOYED</tspan>
         <animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.3s" fill="freeze"/>
       </text>
     </g>
