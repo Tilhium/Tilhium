@@ -82,23 +82,23 @@
 
   <!-- ===== text panel ===== -->
   <g class="mono">
-    <text x="350" y="70" font-size="13" class="dim" letter-spacing="3">// PERSONAL INTERFACE v2.6</text>
+    <text x="350" y="70" font-size="13" class="dim" letter-spacing="3">// INTERFACE v2.6 · ISTANBUL NODE</text>
 
-    <text x="350" y="128" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="4" filter="url(#glow)">OKAN CAN CAMCI</text>
+    <text x="350" y="128" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="4" filter="url(#glow)">OKAN CAN ÇAMCI</text>
 
-    <text x="350" y="160" font-size="15" class="cy" letter-spacing="2">COMPUTER ENGINEER // EDGE AI · FULL-STACK</text>
+    <text x="350" y="160" font-size="14" class="cy" letter-spacing="2">COMPUTER ENGINEER '27 // AI · SYSTEMS · FULL-STACK</text>
 
     <g font-size="13">
       <text x="350" y="200" class="dim" opacity="0">
-        &gt; edge-ai vision ...... <tspan class="cy">ONLINE</tspan>
+        &gt; local llm agents .... <tspan class="cy">ONLINE</tspan>
         <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.3s" fill="freeze"/>
       </text>
       <text x="350" y="220" class="dim" opacity="0">
-        &gt; aes-256 uplink ...... <tspan class="cy">SECURED</tspan>
+        &gt; tilthos / zduruos ... <tspan class="cy">BOOTED</tspan>
         <animate attributeName="opacity" values="0;1" begin="1.0s" dur="0.3s" fill="freeze"/>
       </text>
       <text x="350" y="240" class="dim" opacity="0">
-        &gt; llm agents .......... <tspan class="gold">DEPLOYED</tspan>
+        &gt; aes-256 uplink ...... <tspan class="gold">SECURED</tspan>
         <animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.3s" fill="freeze"/>
       </text>
     </g>
