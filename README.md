@@ -20,7 +20,7 @@
 
 ```yaml
 # ───────────────────────────── IDENTITY SCAN COMPLETE ─────────────────────────────
-designation     : Okan Can Çamcı
+designation     : Okan Can Camcı
 callsign        : Tilhium
 class           : Computer Engineering — 4th year (Class of 2027)
 training        : YÖK Digital University · AI School 2026–2027
